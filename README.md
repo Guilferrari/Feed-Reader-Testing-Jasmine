@@ -1,12 +1,12 @@
 # Project Feed Reader Testing
 
-Feed Reader Testing using #Jasmine Framework#
+Feed Reader Testing using Jasmine Framework
 
-# Jasmine Documentation
+## Jasmine Documentation
 
 https://jasmine.github.io/pages/docs_home.html
 
-# Local Run
+## Local Run
 
 Clone or Download
 Open the folder
@@ -14,7 +14,7 @@ Open index.html in your browser
 Check the results at the bottom spec / failures
 
 
-# Project Overview
+## Project Overview
 
 In this project you are given a web-based application that reads RSS feeds. The original developer of this application clearly saw the value in testing, they've already included [Jasmine](http://jasmine.github.io/) and even started writing their first test suite! Unfortunately, they decided to move on to start their own company and we're now left with an application with an incomplete test suite. That's where you come in.
 
@@ -37,7 +37,7 @@ You will learn how to use Jasmine to write a number of tests against a pre-exist
 * Good tests give you the ability to quickly analyze whether new code breaks an existing feature within your codebase, without having to manually test all of the functionality.
 
 
-# How will I complete this project?
+## How will I complete this project?
 
 Review the Feed Reader Testing [Project Rubric](https://review.udacity.com/#!/projects/3442558598/rubric)
 
